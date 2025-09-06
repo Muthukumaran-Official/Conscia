@@ -1,0 +1,27 @@
+filewatch.py + filewatch_db.json
+→ File Integrity Monitor
+Helps ensure transparency, prevents tampering, detects unauthorized AI model/data manipulation.
+
+stegsniff.py
+→ Steganography Detector
+Prevents misuse of AI by detecting hidden data in images (important for preventing hidden malicious instructions in AI training datasets).
+
+procpeek.py
+→ Process Monitoring Tool
+Monitors suspicious processes that could be AI model stealers, spyware, or unethical surveillance software.
+
+pyporter.py
+→ Port & Network Activity Scanner
+Ensures AI systems aren’t leaking sensitive data through unauthorized network channels.
+
+john4py.py / WPass_Recon.py
+→ Password Security Tools
+Show importance of ethical password auditing (protecting AI systems & datasets against brute-force misuse).
+
+SubEnum.py
+→ Subdomain Enumerator
+Protects AI deployments by helping identify attack surfaces before malicious actors can exploit them.
+
+k_log.pyw
+→ System Logger / Key Activity Logger (if ethical monitoring only)
+Could be reframed as a transparency logger, tracking AI system activity for auditing.
